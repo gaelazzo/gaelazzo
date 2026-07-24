@@ -13,7 +13,7 @@ numerici — con esempi in Python:
 - [myKode_core](https://github.com/TempoSrl/myKode_core) — core C#
 - [generator-mykode](https://github.com/TempoSrl/generator-mykode) — generatore di applicazioni myKode
 - [PluginMoodle](https://github.com/TempoSrl/PluginMoodle) — plugin BrainMaster per Moodle
-- [Easy]  (https://github.com/UniCt-Easy/Easy-Uni.Co./tree/master/Easy) - software di contablità per atenei
+- [Easy](https://github.com/UniCt-Easy/Easy-Uni.Co./tree/master/Easy) - software di contablità per atenei
 
  
 - [python_chess](https://github.com/gaelazzo/python_chess) — trainer di scacchi
