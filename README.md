@@ -1,16 +1,23 @@
-## Hi there 👋
+### Ciao 👋
 
-<!--
-**gaelazzo/gaelazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Progetto software in **Tempo S.r.l.**, a Bari — frameworks, generazione di codice e modellazione del dominio. Uno dei framework su cui lavoro è in
+produzione da ventiquattro anni.
 
-Here are some ideas to get you started:
+📝 Scrivo note tecniche su algoritmi, architettura del software e matematica applicata all'informatica — algebra lineare, calcolo, metodi
+numerici — con esempi in Python:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**→ [Appunti di informatica](https://advancedprogrammingnotes.blogspot.com/)**
+
+#### Progetti
+- [myKode_Backend](https://github.com/TempoSrl/myKode_Backend) — framework enterprise JS
+- [myKode_core](https://github.com/TempoSrl/myKode_core) — core C#
+- [generator-mykode](https://github.com/TempoSrl/generator-mykode) — generatore di applicazioni myKode
+- [PluginMoodle](https://github.com/TempoSrl/PluginMoodle) — plugin BrainMaster per Moodle
+  
+- [python_chess](https://github.com/gaelazzo/python_chess) — trainer di scacchi
+- [edge-sql](https://github.com/gaelazzo/edge-sql) — accesso a database via Node.js
+- [jsDataAccess](https://github.com/gaelazzo/jsDataAccess) — interfaccia dati
+- [jsDataSet](https://github.com/gaelazzo/jsDataSet) — dataset in JavaScript
+- [jsSqlServerDriver](https://github.com/gaelazzo/jsSqlServerDriver) — driver SQL Server
+
+📫 [LinkedIn](https://www.linkedin.com/in/…)   ·   Bari, Italia
