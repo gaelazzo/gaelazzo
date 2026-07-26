@@ -17,6 +17,11 @@ numerici — con esempi in Python:
 
  
 - [python_chess](https://github.com/gaelazzo/python_chess) — trainer di scacchi
+- [lisp-compiler-dos](https://github.com/gaelazzo/lisp-compiler-dos) — compilatore Lisp nativo per DOS 16 bit (1993-1996), in Borland C++
+- [SudokuSolver](https://github.com/gaelazzo/SudokuSolver) — risolutore di sudoku che spiega ogni mossa con tecniche umane, C# / .NET 10
+- [cubeSolver](https://github.com/gaelazzo/cubeSolver) — esploratore di combinazioni del cubo di Rubik in C++20
+- [pdfresume](https://github.com/gaelazzo/pdfresume) — riassunti di PDF in LaTeX tramite API OpenAI
+- [jsMultiSelect](https://github.com/gaelazzo/jsMultiSelect) — select multiple SQL ottimizzate in un solo batch
 - [edge-sql](https://github.com/gaelazzo/edge-sql) — accesso a database via Node.js
 - [jsDataAccess](https://github.com/gaelazzo/jsDataAccess) — interfaccia dati
 - [jsDataSet](https://github.com/gaelazzo/jsDataSet) — dataset in JavaScript
