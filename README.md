@@ -21,6 +21,7 @@ numerici — con esempi in Python:
 - [SudokuSolver](https://github.com/gaelazzo/SudokuSolver) — risolutore di sudoku che spiega ogni mossa con tecniche umane, C# / .NET 10
 - [cubeSolver](https://github.com/gaelazzo/cubeSolver) — esploratore di combinazioni del cubo di Rubik in C++20
 - [pdfresume](https://github.com/gaelazzo/pdfresume) — riassunti di PDF in LaTeX tramite API OpenAI
+- [antenati](https://github.com/gaelazzo/antenati) — estrazione di dati genealogici dai registri degli Archivi di Stato
 - [jsMultiSelect](https://github.com/gaelazzo/jsMultiSelect) — select multiple SQL ottimizzate in un solo batch
 - [edge-sql](https://github.com/gaelazzo/edge-sql) — accesso a database via Node.js
 - [jsDataAccess](https://github.com/gaelazzo/jsDataAccess) — interfaccia dati
